@@ -1,0 +1,13 @@
+name: genSurv
+title: genSurv
+username:
+account: gswac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5285691
+bundleId: 5340928
+url: https://gswac.shinyapps.io/genSurv/
+when: 1638897618.41606
+lastSyncTime: 1638897618.41606
+asMultiple: FALSE
+asStatic: FALSE

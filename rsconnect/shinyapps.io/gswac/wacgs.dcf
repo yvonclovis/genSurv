@@ -1,0 +1,13 @@
+name: wacgs
+title: wacgs
+username:
+account: gswac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5285725
+bundleId: 5340914
+url: https://gswac.shinyapps.io/wacgs/
+when: 1638897492.33573
+lastSyncTime: 1638897492.33573
+asMultiple: FALSE
+asStatic: FALSE
